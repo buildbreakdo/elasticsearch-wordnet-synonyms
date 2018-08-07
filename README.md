@@ -1,6 +1,5 @@
 # Wordnet Synonyms for Elasticsearch Filter
-WordNet synonyms
-Synonyms based on WordNet format:
+WordNet formatted synonyms:
 
 ```
 {
